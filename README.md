@@ -1,1 +1,2 @@
 # odin-recipes
+This assignment will demonstrate the construction of a website recipe. Creating this website first required me to login to my GitHub account and create a repository named "odin-recipes". Once that step was completed, I opened Ubuntu and used the git clone command to move the repository over to my local machine. After that, I cd into the odin-recipes project directory and set up the README.md file. 
